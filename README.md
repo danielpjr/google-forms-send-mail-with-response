@@ -77,3 +77,5 @@ Provavelmente o Google vai requerer seu login para conceder as permissões de in
 Para que o Google Forms possa estar integrado ao Gmail utilizando o Google Apps Scipt você precisa conceder permissão.
 
 <img src="https://raw.githubusercontent.com/danielpjr/google-forms-send-mail-with-response/main/images/google-apps-script-05.png" alt="Google Forms to Gmail" width="310">
+
+### Pronto! Agora acesse e responda o se formulário para efetuar um teste. Em seguida acesse sua caixa de mensagens no Gmail.
