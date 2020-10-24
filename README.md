@@ -68,3 +68,11 @@ Em seguida clique no menu "Editar" e depois em "Acionadores do projeto atual".
 Na próxima tela clique em "Adicionar acionador". Na janela modal de opções do acionador selecione "Do formuláro" para `Origem do evendo` e "Ao enviar formulário" para `Tipo de evento`. Clique em "Salvar".
 
 <img src="https://raw.githubusercontent.com/danielpjr/google-forms-send-mail-with-response/main/images/google-apps-script-03.png" alt="Google Forms to Gmail" width="310" height="162">
+
+Provavelmente o Google vai requerer seu login para conceder as permissões de integração entre os apps da Google.
+
+<img src="https://raw.githubusercontent.com/danielpjr/google-forms-send-mail-with-response/main/images/google-apps-script-04.png" alt="Google Forms to Gmail" width="310" height="162">
+
+Para que o Google Forms possa estar integrado ao Gmail utilizando o Google Apps Scipt você precisa conceder permissão.
+
+<img src="https://raw.githubusercontent.com/danielpjr/google-forms-send-mail-with-response/main/images/google-apps-script-05.png" alt="Google Forms to Gmail" width="310" height="162">
