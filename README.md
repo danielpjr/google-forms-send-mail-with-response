@@ -12,10 +12,11 @@ Este é um exemplo básico de como integrar um formulário do Google Forms com o
 
 ### Pré-requisitos
 
+- Será necessário ser usuário do Gsuite (Google Workspace). Clique neste [link](https://workspace.google.com/signup/businessstarter/welcome?hl=pt-BR) para se registrar e fazer uso do trial.
 - Você precisa ter um formulário criado no Google Forms. Utilize este [link](https://docs.google.com/forms/u/0/?tgif=d) se precisar criar um formulário.
 - Também será necessário possuir uma conta Gmail. Utilize este [link](https://mail.google.com/mail/u/0/) para criar uma conta se for necessário.
 
-### Installation
+### Mãos à obra
 
 Acesse o seu formulário, clique no ínconde de "três pontinhos" (mais opçoes) e depois clique em "Editor de script".
 <img src="https://raw.githubusercontent.com/danielpjr/google-forms-send-mail-with-response/main/images/google-forms-01.png" alt="Google Forms to Gmail" width="310">
