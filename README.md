@@ -58,3 +58,7 @@ function onFormSubmit() {
 }';
 ```
 Não esqueça de salvar o arquivo utilizando Ctrl+S
+<img src="https://raw.githubusercontent.com/danielpjr/google-forms-send-mail-with-response/main/images/google-apps-script-01.png" alt="Google Forms to Gmail" width="310" height="162">
+
+Em seguida clique no menu "Editar" e depois em "Acionadores do projeto atual"
+<img src="https://raw.githubusercontent.com/danielpjr/google-forms-send-mail-with-response/main/images/google-apps-script-02.png" alt="Google Forms to Gmail" width="310" height="162">
