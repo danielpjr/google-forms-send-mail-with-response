@@ -57,7 +57,7 @@ function onFormSubmit() {
   });
 }';
 ```
-Não esqueça de substiruir os valores "ID-DO-FORMULARIO", "seu@email.com" e "Assunto do e-mail", em seguida pressione Ctrl+S para salvar.
+Não esqueça de substiruir os valores "`ID-DO-FORMULARIO`", "`seu@email.com`" e "`Assunto do e-mail`", em seguida pressione Ctrl+S para salvar.
 
 <img src="https://raw.githubusercontent.com/danielpjr/google-forms-send-mail-with-response/main/images/google-apps-script-01.png" alt="Google Forms to Gmail" width="310" height="162">
 
