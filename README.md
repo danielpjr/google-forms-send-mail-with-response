@@ -3,7 +3,7 @@
 <br />
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/danielpjr/google-forms-send-mail-with-response/main/images/google-forms-to-gmail.png" alt="Google Forms to Gmail" width="310" height="162">
+    <img src="https://raw.githubusercontent.com/danielpjr/google-forms-send-mail-with-response/main/images/google-forms-to-gmail.png" alt="Google Forms to Gmail" width="310">
 </p>
 
 ## Começando
@@ -18,7 +18,7 @@ Este é um exemplo básico de como integrar um formulário do Google Forms com o
 ### Installation
 
 Acesse o seu formulário, clique no ínconde de "três pontinhos" (mais opçoes) e depois clique em "Editor de script".
-<img src="https://raw.githubusercontent.com/danielpjr/google-forms-send-mail-with-response/main/images/google-forms-01.png" alt="Google Forms to Gmail" width="310" height="162">
+<img src="https://raw.githubusercontent.com/danielpjr/google-forms-send-mail-with-response/main/images/google-forms-01.png" alt="Google Forms to Gmail" width="310">
 
 Assim que o Google Apps Script abrir em uma nova aba troque o conteúdo do arquivo Código.gs pelo javascript abaixo:
 ```JS
@@ -59,20 +59,20 @@ function onFormSubmit() {
 ```
 Não esqueça de substiruir os valores "`ID-DO-FORMULARIO`", "`seu@email.com`" e "`Assunto do e-mail`", em seguida pressione Ctrl+S para salvar.
 
-<img src="https://raw.githubusercontent.com/danielpjr/google-forms-send-mail-with-response/main/images/google-apps-script-01.png" alt="Google Forms to Gmail" width="310" height="162">
+<img src="https://raw.githubusercontent.com/danielpjr/google-forms-send-mail-with-response/main/images/google-apps-script-01.png" alt="Google Forms to Gmail" width="310">
 
 Em seguida clique no menu "Editar" e depois em "Acionadores do projeto atual".
 
-<img src="https://raw.githubusercontent.com/danielpjr/google-forms-send-mail-with-response/main/images/google-apps-script-02.png" alt="Google Forms to Gmail" width="310" height="162">
+<img src="https://raw.githubusercontent.com/danielpjr/google-forms-send-mail-with-response/main/images/google-apps-script-02.png" alt="Google Forms to Gmail" width="310">
 
 Na próxima tela clique em "Adicionar acionador". Na janela modal de opções do acionador selecione "Do formuláro" para `Origem do evendo` e "Ao enviar formulário" para `Tipo de evento`. Clique em "Salvar".
 
-<img src="https://raw.githubusercontent.com/danielpjr/google-forms-send-mail-with-response/main/images/google-apps-script-03.png" alt="Google Forms to Gmail" width="310" height="162">
+<img src="https://raw.githubusercontent.com/danielpjr/google-forms-send-mail-with-response/main/images/google-apps-script-03.png" alt="Google Forms to Gmail" width="310">
 
 Provavelmente o Google vai requerer seu login para conceder as permissões de integração entre os apps da Google.
 
-<img src="https://raw.githubusercontent.com/danielpjr/google-forms-send-mail-with-response/main/images/google-apps-script-04.png" alt="Google Forms to Gmail" width="310" height="162">
+<img src="https://raw.githubusercontent.com/danielpjr/google-forms-send-mail-with-response/main/images/google-apps-script-04.png" alt="Google Forms to Gmail" width="310">
 
 Para que o Google Forms possa estar integrado ao Gmail utilizando o Google Apps Scipt você precisa conceder permissão.
 
-<img src="https://raw.githubusercontent.com/danielpjr/google-forms-send-mail-with-response/main/images/google-apps-script-05.png" alt="Google Forms to Gmail" width="310" height="162">
+<img src="https://raw.githubusercontent.com/danielpjr/google-forms-send-mail-with-response/main/images/google-apps-script-05.png" alt="Google Forms to Gmail" width="310">
