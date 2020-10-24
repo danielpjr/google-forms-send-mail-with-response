@@ -64,3 +64,7 @@ Não esqueça de substiruir os valores "`ID-DO-FORMULARIO`", "`seu@email.com`" e
 Em seguida clique no menu "Editar" e depois em "Acionadores do projeto atual".
 
 <img src="https://raw.githubusercontent.com/danielpjr/google-forms-send-mail-with-response/main/images/google-apps-script-02.png" alt="Google Forms to Gmail" width="310" height="162">
+
+Na próxima tela clique em "Adicionar acionador". Na janela modal de opções do acionador selecione "Do formuláro" para `Origem do evendo` e "Ao enviar formulário" para `Tipo de evento`. Clique em "Salvar".
+
+<img src="https://raw.githubusercontent.com/danielpjr/google-forms-send-mail-with-response/main/images/google-apps-script-03.png" alt="Google Forms to Gmail" width="310" height="162">
